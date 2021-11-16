@@ -1,0 +1,21 @@
+>>> 1+1
+2
+>>> 4*5
+20
+>>> a=20
+>>> b30
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'b30' is not defined
+>>> bo-30
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'bo' is not defined
+>>> b=30
+>>> a+b
+50
+>>> a='20'
+>>> b="30"
+>>> a+b
+'2030'
+>>>
