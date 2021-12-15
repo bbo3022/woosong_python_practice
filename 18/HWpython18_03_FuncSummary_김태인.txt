@@ -1,0 +1,13 @@
+##입력값이 몇 개가 될지 모를 때는 어떻게 해야 할까?
+
+*매개변수:튜플(collection Type)
+
+**매개변수:딕셔너리(collection Type)
+   Key=value
+
+##함수의 결과값은 언제나 하나
+   return a+b,a*b:튜플반환(collection Type)
+   EX] result1, result2=(3,4)
+
+##함수 안에서 선언한 변수의 효력 범위:지역변수
+##함수 밖에서 선언한 변수의 효력 범위:전역번수>>global 명령어
