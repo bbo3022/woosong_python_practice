@@ -1,0 +1,5 @@
+C:\Users\user>cd C:\Users\user\Desktop\Taein2\python\python_Practice\_PythonTest01\26\HWPython26_11_PackageExam03_김태인
+
+C:\Users\user\Desktop\Taein2\python\python_Practice\_PythonTest01\26\HWPython26_11_PackageExam03_김태인>python -m game.graphic.render render_test()
+render
+echo
